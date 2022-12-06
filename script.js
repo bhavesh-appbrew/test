@@ -2,6 +2,7 @@ init();
 
 function init() {
   addStyleSheet();
+  console.log("hello");
   window.onload = addMobileAppBanner
 }
 
