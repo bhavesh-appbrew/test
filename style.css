@@ -1,0 +1,15 @@
+#mobile-app-banner {
+  padding: 8px 0;
+  text-align: center;
+  background-color: #000;
+  color: #fff;
+}
+
+#mobile-app-download-button {
+  margin-left: 16px;
+  background-color: #fff;
+  border: none;
+  width: 137px;
+  height: 34px;
+  padding: 8px 12px;
+}
